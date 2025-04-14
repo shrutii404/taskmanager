@@ -1,6 +1,5 @@
 {
   "name": "frontend",
-  "proxy": "https://taskmanager-jopi.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,6 +12,7 @@
     "chart.js": "^4.4.8",
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
+    "cloudinary": "^1.21.0",
     "express": "^5.1.0",
     "framer-motion": "^12.6.5",
     "jsonwebtoken": "^9.0.2",
